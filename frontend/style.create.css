@@ -1,0 +1,12 @@
+.parent {
+    margin-left: 20px;    
+  }
+.form-control {
+    width: auto;
+    margin-top: 10px;
+}
+.login-img {
+    text-align: end;
+    margin-top: -330px;
+}
+
